@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "item:standard_backpack_leather"
+    },
+    "priority": 0,
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "LLL",
+      "LCL",
+      "LCL"
+    ],
+    "key": {
+      "L": "minecraft:leather",
+      "C": "minecraft:chest"
+    },
+    "result": "item:standard_backpack_leather"
+  }
+}

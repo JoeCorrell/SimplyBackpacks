@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§9§oSimply Backpacks §bV1.0",
+		"description": "§9§oSimply Backpacks is a highly practical and convenient backpack addon designed to enhance the storage capabilities of Minecraft.",
+		"uuid": "9acec3e9-e4bb-4645-a2ba-f1d56643454c",
+		"min_engine_version": [
+			1,
+			18,
+			0
+		],
+		"version": [
+			0,
+			1,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "e3a71e1a-1448-4193-8d73-70090adda8e0",
+			"version": [
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "2cbaa572-0c78-4c4a-b523-485c647475b9",
+			"version": [
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"blockbench_block_wizard": [
+				"1.1.2"
+			],
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.0",
+  "render_controllers": {
+    "controller.render.backpack": {
+      "geometry": "c.item_slot == 'main_hand' ? Geometry.backpack_being_held : Geometry.backpack_being_carried",
+      "textures": [
+        "Texture.default"
+      ],
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ]
+    }
+  }
+}

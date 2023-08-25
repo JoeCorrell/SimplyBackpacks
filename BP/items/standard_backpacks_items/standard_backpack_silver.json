@@ -1,0 +1,39 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "item:standard_backpack_silver"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "standard_backpack_silver"
+      },
+      "minecraft:creative_category": {
+        "category": "equipment"
+      },
+      "minecraft:block_placer": {
+        "block": "block:standard_backpack_silver"
+      },
+      "minecraft:allow_off_hand": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:on_use": {
+        "on_use": {
+          "event": "event:claim",
+          "target": "self"
+        }
+      }
+    },
+    "events": {
+      "event:claim": {
+        "swing": {},
+        "run_command": {
+          "command": [
+            "/execute at @p[tag=!standard_backpack_silver_claim] run playsound backpack.claim",
+            "/execute as @p[tag=!standard_backpack_silver_claim] run summon entity:standard_backpack_inventory_silver backpack_inventory_silver ~~1~",
+            "/execute as @p[tag=!standard_backpack_silver_claim] run tag @p add standard_backpack_silver_claim"
+          ]
+        }
+      }
+    }
+  }
+}

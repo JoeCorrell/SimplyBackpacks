@@ -1,0 +1,89 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.adventure_backpack.firstperson": {
+      "loop": true,
+      "bones": {
+        "backpack": {
+          "rotation": [
+            120,
+            0,
+            0
+          ],
+          "position": [
+            3,
+            -16,
+            -9
+          ],
+          "scale": 0.75
+        },
+        "rightItem": {
+          "rotation": [
+            60,
+            130,
+            180
+          ],
+          "position": [
+            -1,
+            -12,
+            0
+          ]
+        }
+      }
+    },
+    "animation.adventure_backpack.thirdperson": {
+      "loop": true,
+      "bones": {
+        "backpack": {
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "position": [
+            0,
+            -4,
+            -3
+          ],
+          "scale": 0.85
+        },
+        "rightItem": {
+          "rotation": [
+            0,
+            180,
+            0
+          ],
+          "position": [
+            -0.5,
+            -8,
+            -7
+          ]
+        }
+      }
+    },
+    "animation.adventure_backpack.first_person_being_carried": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "animation.adventure_backpack.third_person_being_carried": {
+      "loop": true,
+      "bones": {
+        "body": {
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  }
+}

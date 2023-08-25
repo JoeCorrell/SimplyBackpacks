@@ -1,0 +1,37 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "item:simple_backpack_magenta"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "simple_backpack_magenta"
+      },
+      "minecraft:creative_category": {
+        "category": "equipment"
+      },
+      "minecraft:block_placer": {
+        "block": "block:simple_backpack_magenta"
+      },
+      "minecraft:allow_off_hand": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:on_use": {
+        "on_use": {
+          "event": "event:claim",
+          "target": "self"
+        }
+      }
+    },
+    "events": {
+      "event:claim": {
+        "run_command": {
+          "command": [
+            "/execute as @p[tag=!simple_backpack_magenta_claim] run summon entity:simple_backpack_inventory_magenta backpack_inventory_magenta ~~1~",
+            "/execute as @p[tag=!simple_backpack_magenta_claim] run tag @p add simple_backpack_magenta_claim"
+          ]
+        }
+      }
+    }
+  }
+}

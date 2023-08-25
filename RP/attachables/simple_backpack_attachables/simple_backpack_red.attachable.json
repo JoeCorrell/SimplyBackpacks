@@ -1,0 +1,36 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "item:simple_backpack_red",
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/simple_backpack/simple_backpack_red"
+      },
+      "geometry": {
+        "backpack_being_carried": "geometry.simple_backpack",
+        "backpack_being_held": "geometry.simple_backpack_being_held"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "firstperson": "c.is_first_person"
+          },
+          {
+            "thirdperson": "!c.is_first_person"
+          }
+        ]
+      },
+      "animations": {
+        "firstperson": "animation.simple_backpack.firstperson",
+        "thirdperson": "animation.simple_backpack.thirdperson"
+      },
+      "render_controllers": [
+        "controller.render.backpack"
+      ]
+    }
+  }
+}

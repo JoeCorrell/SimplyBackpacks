@@ -1,0 +1,7 @@
+{
+  "values": [
+    "backpack_functions/standard_backpacks",
+    "backpack_functions/simple_backpacks",
+    "backpack_functions/adventure_backpacks"
+  ]
+}

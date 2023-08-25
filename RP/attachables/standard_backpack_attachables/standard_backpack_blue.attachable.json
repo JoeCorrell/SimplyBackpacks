@@ -1,0 +1,36 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "item:standard_backpack_blue",
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/standard_backpack/standard_backpack_blue"
+      },
+      "geometry": {
+        "backpack_being_carried": "geometry.standard_backpack",
+        "backpack_being_held": "geometry.standard_backpack_being_held"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "firstperson": "c.is_first_person"
+          },
+          {
+            "thirdperson": "!c.is_first_person"
+          }
+        ]
+      },
+      "animations": {
+        "firstperson": "animation.standard_backpack.firstperson",
+        "thirdperson": "animation.standard_backpack.thirdperson"
+      },
+      "render_controllers": [
+        "controller.render.backpack"
+      ]
+    }
+  }
+}

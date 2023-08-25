@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.0",
+  "sound_definitions": {
+    "backpack.claim": {
+      "category": "block",
+      "sounds": [
+        {
+          "name": "sounds/backpack_sounds/backpack_claim",
+          "volume": 10
+        }
+      ]
+    }
+  }
+}

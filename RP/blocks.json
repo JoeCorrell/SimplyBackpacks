@@ -1,0 +1,158 @@
+{
+	// Standard Backpack //
+	"standard_backpack_blue": {
+		"sound": "cloth"
+	},
+	"standard_backpack_red": {
+		"sound": "cloth"
+	},
+	"standard_backpack_light_blue": {
+		"sound": "cloth"
+	},
+	"standard_backpack_green": {
+		"sound": "cloth"
+	},
+	"standard_backpack_yellow": {
+		"sound": "cloth"
+	},
+	"standard_backpack_silver": {
+		"sound": "cloth"
+	},
+	"standard_backpack_gray": {
+		"sound": "cloth"
+	},
+	"standard_backpack_white": {
+		"sound": "cloth"
+	},
+	"standard_backpack_black": {
+		"sound": "cloth"
+	},
+	"standard_backpack_orange": {
+		"sound": "cloth"
+	},
+	"standard_backpack_purple": {
+		"sound": "cloth"
+	},
+	"standard_backpack_pink": {
+		"sound": "cloth"
+	},
+	"standard_backpack_magenta": {
+		"sound": "cloth"
+	},
+	"standard_backpack_brown": {
+		"sound": "cloth"
+	},
+	"standard_backpack_cyan": {
+		"sound": "cloth"
+	},
+	"standard_backpack_lime": {
+		"sound": "cloth"
+	},
+	"standard_backpack_leather": {
+		"sound": "cloth"
+	},
+	// Simple Backpack //
+	"simple_backpack_blue": {
+		"sound": "cloth"
+	},
+	"simple_backpack_red": {
+		"sound": "cloth"
+	},
+	"simple_backpack_light_blue": {
+		"sound": "cloth"
+	},
+	"simple_backpack_green": {
+		"sound": "cloth"
+	},
+	"simple_backpack_yellow": {
+		"sound": "cloth"
+	},
+	"simple_backpack_silver": {
+		"sound": "cloth"
+	},
+	"simple_backpack_gray": {
+		"sound": "cloth"
+	},
+	"simple_backpack_white": {
+		"sound": "cloth"
+	},
+	"simple_backpack_black": {
+		"sound": "cloth"
+	},
+	"simple_backpack_orange": {
+		"sound": "cloth"
+	},
+	"simple_backpack_purple": {
+		"sound": "cloth"
+	},
+	"simple_backpack_pink": {
+		"sound": "cloth"
+	},
+	"simple_backpack_magenta": {
+		"sound": "cloth"
+	},
+	"simple_backpack_brown": {
+		"sound": "cloth"
+	},
+	"simple_backpack_cyan": {
+		"sound": "cloth"
+	},
+	"simple_backpack_lime": {
+		"sound": "cloth"
+	},
+	"simple_backpack_leather": {
+		"sound": "cloth"
+	},
+	// Adventure Backpack //
+	"adventure_backpack_blue": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_red": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_light_blue": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_green": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_yellow": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_silver": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_gray": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_white": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_black": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_orange": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_purple": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_pink": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_magenta": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_brown": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_cyan": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_lime": {
+		"sound": "cloth"
+	},
+	"adventure_backpack_leather": {
+		"sound": "cloth"
+	}
+}

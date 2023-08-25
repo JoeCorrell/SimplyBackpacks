@@ -1,0 +1,37 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "item:adventure_backpack_orange"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "adventure_backpack_orange"
+      },
+      "minecraft:creative_category": {
+        "category": "equipment"
+      },
+      "minecraft:block_placer": {
+        "block": "block:adventure_backpack_orange"
+      },
+      "minecraft:allow_off_hand": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:on_use": {
+        "on_use": {
+          "event": "event:claim",
+          "target": "self"
+        }
+      }
+    },
+    "events": {
+      "event:claim": {
+        "run_command": {
+          "command": [
+            "/execute as @p[tag=!adventure_backpack_orange_claim] run summon entity:adventure_backpack_inventory_orange backpack_inventory_orange ~~1~",
+            "/execute as @p[tag=!adventure_backpack_orange_claim] run tag @p add adventure_backpack_orange_claim"
+          ]
+        }
+      }
+    }
+  }
+}
