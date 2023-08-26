@@ -8,7 +8,7 @@
         "enchanted": "entity_alphatest"
       },
       "textures": {
-        "default": "textures/adventure_backpack/adventure_backpack_leather"
+        "default": "textures/backpack_textures/adventure_backpack/adventure_backpack_leather"
       },
       "geometry": {
         "backpack_being_carried": "geometry.adventure_backpack",

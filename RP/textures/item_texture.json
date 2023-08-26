@@ -4,159 +4,159 @@
   "texture_data": {
     // Standard Backpack //
     "standard_backpack_leather": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_leather"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_leather"
     },
     "standard_backpack_black": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_black"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_black"
     },
     "standard_backpack_gray": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_gray"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_gray"
     },
     "standard_backpack_magenta": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_magenta"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_magenta"
     },
     "standard_backpack_purple": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_purple"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_purple"
     },
     "standard_backpack_pink": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_pink"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_pink"
     },
     "standard_backpack_blue": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_blue"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_blue"
     },
     "standard_backpack_light_blue": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_light_blue"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_light_blue"
     },
     "standard_backpack_brown": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_brown"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_brown"
     },
     "standard_backpack_red": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_red"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_red"
     },
     "standard_backpack_white": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_white"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_white"
     },
     "standard_backpack_yellow": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_yellow"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_yellow"
     },
     "standard_backpack_silver": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_silver"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_silver"
     },
     "standard_backpack_green": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_green"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_green"
     },
     "standard_backpack_lime": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_lime"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_lime"
     },
     "standard_backpack_cyan": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_cyan"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_cyan"
     },
     "standard_backpack_orange": {
-      "textures": "textures/items/standard_backpack_icons/standard_backpack_orange"
+      "textures": "textures/items/backpack_item_textures/standard_backpack_icons/standard_backpack_orange"
     },
     // Simple Backpack //
     "simple_backpack_leather": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_leather"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_leather"
     },
     "simple_backpack_black": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_black"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_black"
     },
     "simple_backpack_gray": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_gray"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_gray"
     },
     "simple_backpack_magenta": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_magenta"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_magenta"
     },
     "simple_backpack_purple": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_purple"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_purple"
     },
     "simple_backpack_pink": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_pink"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_pink"
     },
     "simple_backpack_blue": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_blue"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_blue"
     },
     "simple_backpack_light_blue": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_light_blue"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_light_blue"
     },
     "simple_backpack_brown": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_brown"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_brown"
     },
     "simple_backpack_red": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_red"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_red"
     },
     "simple_backpack_white": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_white"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_white"
     },
     "simple_backpack_yellow": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_yellow"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_yellow"
     },
     "simple_backpack_silver": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_silver"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_silver"
     },
     "simple_backpack_green": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_green"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_green"
     },
     "simple_backpack_lime": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_lime"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_lime"
     },
     "simple_backpack_cyan": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_cyan"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_cyan"
     },
     "simple_backpack_orange": {
-      "textures": "textures/items/simple_backpack_icons/simple_backpack_orange"
+      "textures": "textures/items/backpack_item_textures/simple_backpack_icons/simple_backpack_orange"
     },
     // Adventure Backpack //
     "adventure_backpack_leather": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_leather"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_leather"
     },
     "adventure_backpack_black": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_black"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_black"
     },
     "adventure_backpack_gray": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_gray"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_gray"
     },
     "adventure_backpack_magenta": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_magenta"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_magenta"
     },
     "adventure_backpack_purple": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_purple"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_purple"
     },
     "adventure_backpack_pink": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_pink"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_pink"
     },
     "adventure_backpack_blue": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_blue"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_blue"
     },
     "adventure_backpack_light_blue": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_light_blue"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_light_blue"
     },
     "adventure_backpack_brown": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_brown"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_brown"
     },
     "adventure_backpack_red": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_red"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_red"
     },
     "adventure_backpack_white": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_white"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_white"
     },
     "adventure_backpack_yellow": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_yellow"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_yellow"
     },
     "adventure_backpack_silver": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_silver"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_silver"
     },
     "adventure_backpack_green": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_green"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_green"
     },
     "adventure_backpack_lime": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_lime"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_lime"
     },
     "adventure_backpack_cyan": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_cyan"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_cyan"
     },
     "adventure_backpack_orange": {
-      "textures": "textures/items/adventure_backpack_icons/adventure_backpack_orange"
+      "textures": "textures/items/backpack_item_textures/adventure_backpack_icons/adventure_backpack_orange"
     }
   }
 }
